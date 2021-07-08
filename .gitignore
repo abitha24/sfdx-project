@@ -26,6 +26,8 @@ node_modules/
 .eslintcache
 
 # MacOS system files
+.sfdx
+.vscode
 .DS_Store
 
 # Windows system files
@@ -37,6 +39,3 @@ $RECYCLE.BIN/
 # Local environment variables
 .env
 
-.sfdx
-.vscode 
-.DS_Store
